@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shiva Saini
 
-## DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD
+## DevOps Engineer | AWS | GCP | Kubernetes | Docker | Terraform | CI/CD
 
 DevOps Engineer with 2+ years of experience in CI/CD automation, Kubernetes orchestration, cloud infrastructure, and containerized deployments.
 
